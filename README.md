@@ -1,8 +1,8 @@
 # Rebel Samurai
 
-[Watch the trailer (MP4)](https://rashidderev.github.io/rebel-samurai-trailer/rebel-samurai-trailer.mp4?v=2) · [Video player](https://rashidderev.github.io/rebel-samurai-trailer/)
+[Watch the trailer (MP4)](https://rashidderev.github.io/rebel-samurai-trailer/rebel-samurai-trailer.mp4?v=3) · [Video player](https://rashidderev.github.io/rebel-samurai-trailer/)
 
-Six locations captured in the browser game. Created by Rashid Derev.
+The campaign menu and five duels captured in the Poki edition of Rebel Samurai. Created by Rashid Derev.
 
 Music: “Sakura Sakura,” performed by Satoshi Suzuki (鈴木諭 / 音筏). [Artist and recording](https://rotmcits.com/wafuubgm/)
 
